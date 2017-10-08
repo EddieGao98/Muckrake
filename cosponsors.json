@@ -1,0 +1,333 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "congress": "115",
+         "bill_id": "hr154-115",
+         "bill_slug": "hr154",
+         "bill_type": "hr",
+         "number": "H.R.154",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr154.json",
+         "url_number": "hr154",
+         "title": "Honoring Our WWII Merchant Mariners Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor_id": "G000553",
+         "sponsor_name": "Al Green",
+         "sponsor_state": "TX",
+         "sponsor_party": "D",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/G000553.json",
+         "introduced_date": "2017-01-03",
+         "number_of_cosponsors": 32,
+         "committees": "House Veterans' Affairs Committee",
+         "latest_major_action_date": "2017-01-19",
+         "latest_major_action": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs.",
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+             "cosponsors_by_party":[
+    {
+      "party": {
+        "id": "D",
+        "sponsors": "27"
+      }
+    },
+        {
+      "party": {
+        "id": "R",
+        "sponsors": "5"
+      }
+    }
+    ],
+         "cosponsors":[
+         {
+           "cosponsor_id": "S000510",
+           "name": "Adam Smith",
+           "cosponsor_title": "Rep.",
+           "cosponsor_state": "WA",
+           "cosponsor_party": "D",
+           "cosponsor_uri": "https://api.propublica.org/congress/v1/members/S000510.json",
+           "date": "2017-03-02"
+         },
+                  {
+           "cosponsor_id": "C001069",
+           "name": "Joe Courtney",
+           "cosponsor_title": "Rep.",
+           "cosponsor_state": "CT",
+           "cosponsor_party": "D",
+           "cosponsor_uri": "https://api.propublica.org/congress/v1/members/C001069.json",
+           "date": "2017-05-04"
+         },
+                  {
+           "cosponsor_id": "C001068",
+           "name": "Steve Cohen",
+           "cosponsor_title": "Rep.",
+           "cosponsor_state": "TN",
+           "cosponsor_party": "D",
+           "cosponsor_uri": "https://api.propublica.org/congress/v1/members/C001068.json",
+           "date": "2017-05-16"
+         },
+                  {
+           "cosponsor_id": "L000563",
+           "name": "Daniel Lipinski",
+           "cosponsor_title": "Rep.",
+           "cosponsor_state": "IL",
+           "cosponsor_party": "D",
+           "cosponsor_uri": "https://api.propublica.org/congress/v1/members/L000563.json",
+           "date": "2017-05-16"
+         },
+                  {
+           "cosponsor_id": "M001143",
+           "name": "Betty McCollum",
+           "cosponsor_title": "Rep.",
+           "cosponsor_state": "MN",
+           "cosponsor_party": "D",
+           "cosponsor_uri": "https://api.propublica.org/congress/v1/members/M001143.json",
+           "date": "2017-05-16"
+         },
+                  {
+           "cosponsor_id": "P000597",
+           "name": "Chellie Pingree",
+           "cosponsor_title": "Rep.",
+           "cosponsor_state": "ME",
+           "cosponsor_party": "D",
+           "cosponsor_uri": "https://api.propublica.org/congress/v1/members/P000597.json",
+           "date": "2017-05-16"
+         },
+                  {
+           "cosponsor_id": "R000486",
+           "name": "Lucille Roybal-Allard",
+           "cosponsor_title": "Rep.",
+           "cosponsor_state": "CA",
+           "cosponsor_party": "D",
+           "cosponsor_uri": "https://api.propublica.org/congress/v1/members/R000486.json",
+           "date": "2017-05-16"
+         },
+                  {
+           "cosponsor_id": "D000216",
+           "name": "Rosa DeLauro",
+           "cosponsor_title": "Rep.",
+           "cosponsor_state": "CT",
+           "cosponsor_party": "D",
+           "cosponsor_uri": "https://api.propublica.org/congress/v1/members/D000216.json",
+           "date": "2017-05-16"
+         },
+                  {
+           "cosponsor_id": "D000191",
+           "name": "Peter A. DeFazio",
+           "cosponsor_title": "Rep.",
+           "cosponsor_state": "OR",
+           "cosponsor_party": "D",
+           "cosponsor_uri": "https://api.propublica.org/congress/v1/members/D000191.json",
+           "date": "2017-05-16"
+         },
+                  {
+           "cosponsor_id": "L000579",
+           "name": "Alan Lowenthal",
+           "cosponsor_title": "Rep.",
+           "cosponsor_state": "CA",
+           "cosponsor_party": "D",
+           "cosponsor_uri": "https://api.propublica.org/congress/v1/members/L000579.json",
+           "date": "2017-05-17"
+         },
+                  {
+           "cosponsor_id": "C001090",
+           "name": "Matt Cartwright",
+           "cosponsor_title": "Rep.",
+           "cosponsor_state": "PA",
+           "cosponsor_party": "D",
+           "cosponsor_uri": "https://api.propublica.org/congress/v1/members/C001090.json",
+           "date": "2017-05-17"
+         },
+                  {
+           "cosponsor_id": "H000324",
+           "name": "Alcee L. Hastings",
+           "cosponsor_title": "Rep.",
+           "cosponsor_state": "FL",
+           "cosponsor_party": "D",
+           "cosponsor_uri": "https://api.propublica.org/congress/v1/members/H000324.json",
+           "date": "2017-05-17"
+         },
+                  {
+           "cosponsor_id": "S000185",
+           "name": "Robert C. Scott",
+           "cosponsor_title": "Rep.",
+           "cosponsor_state": "VA",
+           "cosponsor_party": "D",
+           "cosponsor_uri": "https://api.propublica.org/congress/v1/members/S000185.json",
+           "date": "2017-05-17"
+         },
+                  {
+           "cosponsor_id": "W000814",
+           "name": "Randy Weber",
+           "cosponsor_title": "Rep.",
+           "cosponsor_state": "TX",
+           "cosponsor_party": "R",
+           "cosponsor_uri": "https://api.propublica.org/congress/v1/members/W000814.json",
+           "date": "2017-05-17"
+         },
+                  {
+           "cosponsor_id": "P000592",
+           "name": "Ted Poe",
+           "cosponsor_title": "Rep.",
+           "cosponsor_state": "TX",
+           "cosponsor_party": "R",
+           "cosponsor_uri": "https://api.propublica.org/congress/v1/members/P000592.json",
+           "date": "2017-06-07"
+         },
+                  {
+           "cosponsor_id": "B001300",
+           "name": "Nanette Barragán",
+           "cosponsor_title": "Rep.",
+           "cosponsor_state": "CA",
+           "cosponsor_party": "D",
+           "cosponsor_uri": "https://api.propublica.org/congress/v1/members/B001300.json",
+           "date": "2017-06-07"
+         },
+                  {
+           "cosponsor_id": "M001185",
+           "name": "Sean Patrick Maloney",
+           "cosponsor_title": "Rep.",
+           "cosponsor_state": "NY",
+           "cosponsor_party": "D",
+           "cosponsor_uri": "https://api.propublica.org/congress/v1/members/M001185.json",
+           "date": "2017-06-07"
+         },
+                  {
+           "cosponsor_id": "R000576",
+           "name": "C.A. Dutch Ruppersberger",
+           "cosponsor_title": "Rep.",
+           "cosponsor_state": "MD",
+           "cosponsor_party": "D",
+           "cosponsor_uri": "https://api.propublica.org/congress/v1/members/R000576.json",
+           "date": "2017-06-07"
+         },
+                  {
+           "cosponsor_id": "T000469",
+           "name": "Paul Tonko",
+           "cosponsor_title": "Rep.",
+           "cosponsor_state": "NY",
+           "cosponsor_party": "D",
+           "cosponsor_uri": "https://api.propublica.org/congress/v1/members/T000469.json",
+           "date": "2017-06-07"
+         },
+                  {
+           "cosponsor_id": "S001170",
+           "name": "Carol Shea-Porter",
+           "cosponsor_title": "Rep.",
+           "cosponsor_state": "NH",
+           "cosponsor_party": "D",
+           "cosponsor_uri": "https://api.propublica.org/congress/v1/members/S001170.json",
+           "date": "2017-07-11"
+         },
+                  {
+           "cosponsor_id": "M001188",
+           "name": "Grace Meng",
+           "cosponsor_title": "Rep.",
+           "cosponsor_state": "NY",
+           "cosponsor_party": "D",
+           "cosponsor_uri": "https://api.propublica.org/congress/v1/members/M001188.json",
+           "date": "2017-07-14"
+         },
+                  {
+           "cosponsor_id": "B001281",
+           "name": "Joyce Beatty",
+           "cosponsor_title": "Rep.",
+           "cosponsor_state": "OH",
+           "cosponsor_party": "D",
+           "cosponsor_uri": "https://api.propublica.org/congress/v1/members/B001281.json",
+           "date": "2017-07-24"
+         },
+                  {
+           "cosponsor_id": "G000581",
+           "name": "Vicente Gonzalez",
+           "cosponsor_title": "Rep.",
+           "cosponsor_state": "TX",
+           "cosponsor_party": "D",
+           "cosponsor_uri": "https://api.propublica.org/congress/v1/members/G000581.json",
+           "date": "2017-07-24"
+         },
+                  {
+           "cosponsor_id": "D000624",
+           "name": "Debbie Dingell",
+           "cosponsor_title": "Rep.",
+           "cosponsor_state": "MI",
+           "cosponsor_party": "D",
+           "cosponsor_uri": "https://api.propublica.org/congress/v1/members/D000624.json",
+           "date": "2017-07-24"
+         },
+                  {
+           "cosponsor_id": "C001072",
+           "name": "André Carson",
+           "cosponsor_title": "Rep.",
+           "cosponsor_state": "IN",
+           "cosponsor_party": "D",
+           "cosponsor_uri": "https://api.propublica.org/congress/v1/members/C001072.json",
+           "date": "2017-08-04"
+         },
+                  {
+           "cosponsor_id": "J000290",
+           "name": "Lynn Jenkins",
+           "cosponsor_title": "Rep.",
+           "cosponsor_state": "KS",
+           "cosponsor_party": "R",
+           "cosponsor_uri": "https://api.propublica.org/congress/v1/members/J000290.json",
+           "date": "2017-09-05"
+         },
+                  {
+           "cosponsor_id": "D000096",
+           "name": "Danny K. Davis",
+           "cosponsor_title": "Rep.",
+           "cosponsor_state": "IL",
+           "cosponsor_party": "D",
+           "cosponsor_uri": "https://api.propublica.org/congress/v1/members/D000096.json",
+           "date": "2017-09-05"
+         },
+                  {
+           "cosponsor_id": "D000625",
+           "name": "Daniel M. Donovan",
+           "cosponsor_title": "Rep.",
+           "cosponsor_state": "NY",
+           "cosponsor_party": "R",
+           "cosponsor_uri": "https://api.propublica.org/congress/v1/members/D000625.json",
+           "date": "2017-09-05"
+         },
+                  {
+           "cosponsor_id": "B001285",
+           "name": "Julia Brownley",
+           "cosponsor_title": "Rep.",
+           "cosponsor_state": "CA",
+           "cosponsor_party": "D",
+           "cosponsor_uri": "https://api.propublica.org/congress/v1/members/B001285.json",
+           "date": "2017-09-05"
+         },
+                  {
+           "cosponsor_id": "C001106",
+           "name": "Ryan Costello",
+           "cosponsor_title": "Rep.",
+           "cosponsor_state": "PA",
+           "cosponsor_party": "R",
+           "cosponsor_uri": "https://api.propublica.org/congress/v1/members/C001106.json",
+           "date": "2017-09-14"
+         },
+                  {
+           "cosponsor_id": "C001059",
+           "name": "Jim Costa",
+           "cosponsor_title": "Rep.",
+           "cosponsor_state": "CA",
+           "cosponsor_party": "D",
+           "cosponsor_uri": "https://api.propublica.org/congress/v1/members/C001059.json",
+           "date": "2017-09-26"
+         },
+                  {
+           "cosponsor_id": "P000034",
+           "name": "Frank Pallone",
+           "cosponsor_title": "Rep.",
+           "cosponsor_state": "NJ",
+           "cosponsor_party": "D",
+           "cosponsor_uri": "https://api.propublica.org/congress/v1/members/P000034.json",
+           "date": "2017-09-28"
+         }
+         ]
+      }
+   ]
+}

@@ -1,0 +1,15 @@
+curl -i --user "959a2b1e-e6f3-41da-aa75-d7169e9d94b1":"KzsW4mE5KcIG" -F training_data=@$HOME/Downloads/weather_data_train.csv -F training_metadata="{\"language\":\"en\",\"name\":\"TutorialClassifier\"}" "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers"
+
+curl --user "959a2b1e-e6f3-41da-aa75-d7169e9d94b1":"KzsW4mE5KcIG" "https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/ebd44cx231-nlc-8165"
+
+propublica api: gt6jsrJY8cXmh6WmRYwK0820BFfrtZlf25fJSKlo
+
+opensecrets api: dbca3ef1d3c4b55075f276e533840579
+
+https://www.opensecrets.org/api/?method=getLegislators&output=json&apikey=dbca3ef1d3c4b55075f276e533840579&id=CA
+
+    """bill_url = 'https://www.congress.gov/115/bills/hr1628/BILLS-115hr1628pcs.xml'
+    bill_headers = { 'User-Agent' : 'Mozilla/5.0' }
+    bill_req = urllib.request.Request(bill_url, None, bill_headers)
+    bill_response = urllib.request.urlopen(bill_req).read().decode("utf-8")
+    root = ET.fromstring(bill_response)"""

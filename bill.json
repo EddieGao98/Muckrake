@@ -1,0 +1,66 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "bill_id": "hr154-115",
+         "bill_slug": "hr154",
+         "congress": "115",
+         "bill": "H.R.154",
+         "bill_type": "hr",
+         "number": "H.R.154",
+         "bill_uri": "https://api.propublica.org/congress/v1/115/bills/hr154.json",
+         "title": "Honoring Our WWII Merchant Mariners Act of 2017",
+         "short_title": "Honoring Our WWII Merchant Mariners Act of 2017",
+         "sponsor_title": "Rep.",
+         "sponsor": "Al Green",
+         "sponsor_id": "G000553",
+         "sponsor_uri": "https://api.propublica.org/congress/v1/members/G000553.json",
+         "sponsor_party": "D",
+         "sponsor_state": "TX",
+         "gpo_pdf_uri": null,
+         "congressdotgov_url": "https://www.congress.gov/bill/115th-congress/house-bill/154",
+         "govtrack_url": "https://www.govtrack.us/congress/bills/115/hr154",
+         "introduced_date": "2017-01-03",
+         "active": false,
+         "house_passage": null,
+         "senate_passage": null,
+         "enacted": null,
+         "vetoed": null,
+         "cosponsors": 32,
+         "withdrawn_cosponsors": 0,
+         "primary_subject": "Armed Forces and National Security",
+         "committees": "House Veterans' Affairs Committee",
+         "committee_codes": ["HSVR"],
+         "subcommittee_codes": ["HSVR09"],
+         "latest_major_action_date": "2017-01-19",
+         "latest_major_action": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs.",
+         "last_vote_date": null,
+         "house_passage_vote": null,
+         "senate_passage_vote": null,
+         "summary": " Honoring Our WWII Merchant Mariners Act of 2017 This bill establishes in the Treasury the Merchant Mariner Equity Compensation Fund from which the Department of Veterans Affairs (VA) is to make one payment of $25,000 to each individual who, between December 7, 1941, and December 31, 1946, was a documented member of the U.S. merchant marine (including the Army Transport Service and the Naval Transport Service) serving as a crewmember of a vessel that was operated in U.S. waters by the War Shipping Administration or the Office of Defense Transportation and under contract to, or the property of, the United States. Such individuals must: (1) apply for such benefit within one year after the enactment of this Act, and (2) not have received benefits under the Servicemen's Readjustment Act of 1944. The VA shall include, in annual budget documents submitted to Congress, detailed information on the Fund's operation.",
+         "summary_short": " Honoring Our WWII Merchant Mariners Act of 2017 This bill establishes in the Treasury the Merchant Mariner Equity Compensation Fund from which the Department of Veterans Affairs (VA) is to make one payment of $25,000 to each individual who, between December 7, 1941, and December 31, 1946, was a documented member of the U.S. merchant marine (including the Army Transport Service and the Naval Transport Service) serving as a crewmember of a vessel that was operated in U.S. waters by the War Shi...",
+         "versions":[
+],
+         "actions":[
+         {
+           "id": 2,
+           "chamber": "House",
+           "action_type": "Committee",
+           "datetime": "2017-01-19",
+           "description": "Referred to the Subcommittee on Disability Assistance and Memorial Affairs."
+         },
+                  {
+           "id": 1,
+           "chamber": "House",
+           "action_type": "IntroReferral",
+           "datetime": "2017-01-03",
+           "description": "Referred to the House Committee on Veterans' Affairs."
+         }
+         ],
+         "votes": [
+         ]
+
+      }
+   ]
+}
